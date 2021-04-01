@@ -1,4 +1,4 @@
-# JustAD2Platformer
+# JustA2DPlatformer
 First Game
 
 1 : Read "How to play"
